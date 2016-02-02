@@ -1,0 +1,11 @@
+#tmj-post-notice {
+  background-color: #fcf8e3;
+  border: 1px solid #fbeed5;
+  border-radius: 4px;
+  margin: 8px 0;
+  margin-bottom: 12px;
+  padding: 12px;
+  color: #c09853;
+  text-shadow: 0 1px 0 rgba(255,255,255,.5);
+  font-size: 12px;
+}
